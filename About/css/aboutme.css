@@ -38,15 +38,15 @@ h1 {
   text-transform: uppercase;
   text-decoration: none;
 
-  background-color: rgb(206, 187, 163);
+  background-color: rgb(135, 135, 135);
   color: black;
-  border-radius: 50px;
+  
   padding: 7px;
 }
 
 nav{
-  text-align: center;
-  word-spacing: 200px;
+  text-align: right;
+  
 
   padding-top: 30px;
   padding-bottom: 30px;
@@ -56,7 +56,7 @@ nav{
 }
 
 footer {
-  background-color: rgb(206, 187, 163);
+  background-color: rgb(147, 147, 147);
   border: 20px;
   padding: 7px;
 
