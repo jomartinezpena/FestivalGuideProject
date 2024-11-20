@@ -41,16 +41,28 @@ Fonts:
     - By: Maria Fernanda Ramirez Ramos
          - https://latinamericanpost.com/americas/environment-en/light-pollution-threatens-health-and-biodiversity/
 - Other Images: 
-    - By: 
-        - 
-    - By: 
-        - 
-    - By: 
-        - 
-    - By: 
-        - 
-    - By: 
-        - 
+
+    - Published In An Article, "7 Best Places To Stargaze Near San Francisco"
+        - By: Marie-Angele Zoungrana
+        - Lick Observatory (Mount Hamilton)
+        https://secretsanfrancisco.com/best-places-to-stargaze-san-francisco/
+
+    - Published In An Article, "7 Best Places To Stargaze Near San Francisco"
+        - By: Marie-Angele Zoungrana
+        - Chabot Space & Science Center (Oakland)
+        https://secretsanfrancisco.com/best-places-to-stargaze-san-francisco/
+    
+    - Published In An Article, "7 Best Places To Stargaze Near San Francisco"
+        - By: Marie-Angele Zoungrana
+        - Mount Tamalpais (Marin)
+        https://secretsanfrancisco.com/best-places-to-stargaze-san-francisco/
+
+    - Published In An Article, "Head to Twin Peaks for the Best Views in San Francisco"
+        - By: Fiona Chandra
+        - Twin Peaks (SF)
+        https://www.exp1.com/blog/head-to-twin-peaks-for-the-best-views-in-san-francisco/
+    - By: Margareth
+        - https://www.whensheroams.com/guides/lake-tahoe-guide-clear-kayaking-scenic-trails-and-foodie-finds
 
 
 
