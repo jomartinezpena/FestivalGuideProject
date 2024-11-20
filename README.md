@@ -6,11 +6,15 @@ By: Johnathan Martinez Pena
 
 ## Project Overview:
 
-For this project, I chose to focus my festival on light pollution, and how it will raise awareness to such problem. The organization my festival will support is the Interanation Dark-Sky Association, an organization that works to reduce light emmissions. 
+For this project, I dedicated my festival on light pollution, which is called "The Celestial Nights Fest, a three-day immersive event dedicated to celebrating natural darkness. From December 8-10, the festival will occur across prominent locations in and around San Francisco, such as Lake Tahoe, Twin Peaks, Mount Tamalpais, the Chabot Space and Science Center, and Lick Observatory. 
 
-Raising awareness about light pollution is crucial for protecting wildlife and human health. Artificial lighting interferes with the natural behaviors of animals, such as turtles and birds, whose hatchlings and migrations habits are particularly sensitve to these disruptions. It also affects human health by causing insomnia, melatonin suppresin, and potentially increasing the risk of cancer. 
+The festival features interactive art installations, expert talks, guided stargazing, nature walks, and a reflective candlelight procession, all designed to deepen public understanding and appreciation of the dark skies. 
 
-Minimizing light pollution helps strengthen our bond with nature, allowing people to appreaciate the beauty of the nigth sky, which is becoming increasingly rare in cities. By advocating for responsible lighting practices, we can work to restore the natural cycles that all living beings depend on and ensure that future generations can enjoy the stars.
+Its mission is to raise awareness about light pollution and its detrimental effects on wildlife and human health while supporting the International Dark-Sky Association, an organization committed to reducing excess artificial lighting and protecting natural darkness as light pollution disrupts the behaviors of wildlife, such as turtles and birds, while also posing health risks to humans, and including sleep disturbances.
+
+By having a simple layout across the website, it'll be easy for the users who come across the website to manage their way around it. These festivals target environmentalists, conservationists, educators, students, astronomers, and local community members, particularly those in urban areas where light pollution is most prevalent.  
+
+
 
 ## Figma Wireframe Link 
 
@@ -31,7 +35,6 @@ The coding languages I'm utilizing include:
 
 I am using GitHub as the platform for hosting and managing my code. And all included images, and illustrations are edited from Adobe Photoshop or done by Adobe Illustrator. 
 
-Fonts: 
 
 
 ## Acknowledgment
@@ -62,7 +65,8 @@ Fonts:
         - Twin Peaks (SF)
         https://www.exp1.com/blog/head-to-twin-peaks-for-the-best-views-in-san-francisco/
     - By: Margareth
-        - https://www.whensheroams.com/guides/lake-tahoe-guide-clear-kayaking-scenic-trails-and-foodie-finds
+        - Lake Tahoe 
+        https://www.whensheroams.com/guides/lake-tahoe-guide-clear-kayaking-scenic-trails-and-foodie-finds
 
 
 
