@@ -1,6 +1,6 @@
 # Project 3: Festival Guide 
 
-### November 19, 2024
+### November 20, 2024
 By: Johnathan Martinez Pena
 
 
@@ -14,7 +14,7 @@ Minimizing light pollution helps strengthen our bond with nature, allowing peopl
 
 ## Figma Wireframe Link 
 
-![Figma Wireframe](Wireframe.png)
+![Figma Wireframe](img/Wireframe.png)
 
 https://www.figma.com/proto/ti5OzDF2JQHGcaB8Sy5Ij0/Project-3%2F-Prototype-Wireframe?node-id=1-27&t=4CXwbScGOC7xvio7-1&starting-point-node-id=1%3A27
 
@@ -40,6 +40,17 @@ Fonts:
     - Published In An Article, "Light Pollution Threatens Health and Biodiversity"
     - By: Maria Fernanda Ramirez Ramos
          - https://latinamericanpost.com/americas/environment-en/light-pollution-threatens-health-and-biodiversity/
+- Other Images: 
+    - By: 
+        - 
+    - By: 
+        - 
+    - By: 
+        - 
+    - By: 
+        - 
+    - By: 
+        - 
 
 
 
