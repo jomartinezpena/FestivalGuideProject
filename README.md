@@ -1,6 +1,6 @@
 # Project 3: Festival Guide 
 
-### November 20, 2024
+### December 2, 2024
 By: Johnathan Martinez Pena
 
 
@@ -35,6 +35,12 @@ The coding languages I'm utilizing include:
 
 I am using GitHub as the platform for hosting and managing my code. And all included images, and illustrations are edited from Adobe Photoshop or done by Adobe Illustrator. 
 
+Assets: 
+- Physical Asset:
+![Physical Asset](img/DES228_Physical_Asset_Draft.jpg)
+
+- Mocked-Up Asset:
+![Mocked-Up Asset](img/Mockup.jpg)
 
 
 ## Acknowledgment
