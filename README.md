@@ -35,11 +35,10 @@ The coding languages I'm utilizing include:
 
 I am using GitHub as the platform for hosting and managing my code. And all included images, and illustrations are edited from Adobe Photoshop or done by Adobe Illustrator. 
 
-Assets: 
-- Physical Asset:
-![Physical Asset](img/DES228_Physical_Asset_Draft.jpg)
+Physical/Mocked-Up Assets: 
 
-- Mocked-Up Asset:
+![Physical Asset](img/DES228_Physical_Asset_Draft2.jpg)
+
 ![Mocked-Up Asset](img/Mockup.jpg)
 
 
