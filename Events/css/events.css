@@ -2,6 +2,8 @@
   margin: 0;
   padding: 0;
 
+  font-size: 100%;
+
   text-decoration: none;
   color: black;
   
@@ -16,6 +18,9 @@ body{
     font-weight: 400;
     font-style: normal;
 
+    min-height: 100dvh;
+    width: 100%;
+    position: relative;
 
 }
 
@@ -27,9 +32,12 @@ h1 {
   
   border: 50px;
   padding: 7px;
-
+  font-size: 30px;
   color: white;
   
+  font-family: "Kirang Haerang", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h2 { 
@@ -37,34 +45,87 @@ h2 {
   color: white; 
   text-align: center;
   padding: 10px;
+  
 }
 
+header { 
+  background-color: #272323;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center; 
+  padding: 10px 20px;
+
+  font-family: "Kirang Haerang", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+#logo { 
+  width: 6%;
+}
+
+#middle { 
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center; 
+  
+  flex-grow: 1; 
+  text-align: center; 
+  font-size: 3rem;
+  color: white; 
+  background-color: transparent; 
+
+  text-shadow: 2px 2px 5px rgb(255, 233, 39);
+}
+
+#middle .small-logo { 
+  position: absolute;
+  top: -2px;
+  left: 53%;
+  width: 30px;
+  height: auto;
+  transform: translateX(-40%) rotate(-45deg);
+  margin-bottom: 3px;
+}
+#middle .highlight { 
+  position: relative;
+}
+
+#middle:hover { 
+  background-color: #272323;
+  color:rgb(58, 37, 102); 
+  cursor:pointer; 
+  text-shadow: 2px 2px 5px white;
+}
 .subheaders { 
 
-  text-align: center;
   text-transform: uppercase;
   text-decoration: none;
 
   background-color:#8C899B;
   color: black;
-  
+  font-size: 30px;
   padding: 7px;
 }
 
 nav{
-  text-align: right;
- 
-
-  padding-top: 30px;
-  padding-bottom: 30px;
+  display: flex; 
+  gap: 20px;
   
-  font-size: 20px;
-
-}
+ }
+ 
+ header a:hover{ 
+   background-color: #A9A7B2;
+   color: white; 
+   transform: scale(1.05);
+   cursor:pointer; 
+ }
 
 
 footer {
-  background-color: #34333E;
+  background-color: #272323;
   border: 20px;
   padding: 7px;
 
@@ -85,11 +146,18 @@ footer a {
   color: white;
   font-size: 13px;
   text-decoration: underline;
+  padding-bottom: 5px; 
+
+}
+
+footer a:hover { 
+  background-color: #272323;
+  color: rgb(84, 37, 203); 
+  transform: scale(1.05);
+  cursor:pointer;
 }
 
 img { 
-
-  border: 2px solid black;
   
   margin-left: auto;
   margin-right: auto;
