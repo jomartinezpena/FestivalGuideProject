@@ -74,4 +74,9 @@ Physical/Mocked-Up Assets:
         https://www.whensheroams.com/guides/lake-tahoe-guide-clear-kayaking-scenic-trails-and-foodie-finds
 
 
+- Star Background: 
+   - https://pastebin.com/gEfdRwgc
 
+- Video Tutorial For Star Background: 
+    - Parallax Pixel Background Animation |HTML and CSS by WebDev SHORTS 
+        - https://youtu.be/aywzn9cf-_U?si=0utoXTrQZEzt8JYH
