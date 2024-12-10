@@ -182,7 +182,7 @@ nav{
   }
 
 footer {
-  position: relative;
+  position: sticky;
   border-top: 5px solid #fff;
   background-color: #272323;
  
