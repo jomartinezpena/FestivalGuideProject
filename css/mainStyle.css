@@ -24,12 +24,12 @@ html {
   font-family: "Kirang Haerang", system-ui;
   font-weight: 400;
   font-style: normal;
-  font-size: 50px;
+  font-size: 80px;
   letter-spacing: 5px;
   padding:20px
 }
 
-#title span { 
+#title span {
   background: -webkit-linear-gradient(white,#aad4ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -231,7 +231,7 @@ p {
   padding-bottom: 20px;
   padding-right: 30px;
 
-  font-size: 20px;
+  font-size: 50px;
   
 }
 
