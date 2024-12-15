@@ -67,7 +67,7 @@ header {
     font-weight: 400;
     font-style: normal;
 
-    position: sticky;
+    
     z-index: 1000;
 }
 
@@ -111,7 +111,7 @@ header {
 }
 
 .subheaders { 
-
+  border-radius: 10%;
   text-transform: uppercase;
   text-decoration: none;
 
@@ -122,7 +122,7 @@ header {
 }
 
 nav{
-  position: sticky;
+  
   z-index: 1000;
 
   display: flex; 
@@ -142,7 +142,7 @@ nav{
   }
  
  footer {
-    position: sticky;
+    
     z-index: 1000;
    background-color: #272323;
    border: 20px;

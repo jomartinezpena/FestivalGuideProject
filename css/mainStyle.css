@@ -53,6 +53,8 @@ body{
 }
 
 h1 {
+
+  z-index: 1000;
   background-color:#A9A7B2;
 
   text-align: center;
@@ -79,6 +81,7 @@ h2 {
 }
 
 header { 
+  
   background-color: #272323;
   margin-bottom: 10px;
   display: flex;
@@ -88,9 +91,7 @@ header {
   font-family: "Kirang Haerang", system-ui;
     font-weight: 400;
     font-style: normal;
-
-    position: sticky;
-  z-index: 1000;
+  
 }
 
 #logo { 
@@ -151,7 +152,7 @@ header {
 
 
 .subheaders { 
-
+  border-radius: 10%;
   text-transform: uppercase;
   text-decoration: none;
 
@@ -162,7 +163,7 @@ header {
 }
 
 nav{
-  position: sticky;
+  
   z-index: 1000;
 
   display: flex; 
@@ -182,7 +183,7 @@ nav{
   }
 
 footer {
-  position: sticky;
+  
   border-top: 5px solid #fff;
   background-color: #272323;
  

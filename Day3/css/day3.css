@@ -112,7 +112,7 @@ header {
 }
 
 .subheaders { 
-
+  border-radius: 10%;
   text-transform: uppercase;
   text-decoration: none;
 
